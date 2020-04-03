@@ -2,7 +2,6 @@ body {
   background: #000000;
   color: #00ff00;
   font-family: monospace;
-  min-height: 100vh;
 }
 
 .accessGranted {
