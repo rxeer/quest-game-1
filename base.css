@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+html,
+body {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
 .custom-button {
   -webkit-appearance: none;
   align-items: center;
